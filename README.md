@@ -109,9 +109,7 @@ Networking • Cloud • Python • AWS • Web Development
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: Add your LinkedIn profile
-* 🌐 Portfolio: Add your portfolio website
+* 📧 Email: thatikondarushi037@gmail.com
 
 ---
 
