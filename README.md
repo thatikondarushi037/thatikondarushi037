@@ -2,7 +2,7 @@ y# Hi, I'm Rushi Thatikonda 👋
 
 **M.Sc. Computer Science @ RPTU | AI & ML Engineering | Network Security**
 
-I'm currently pursuing a **Master of Science in Computer Science at RPTU University of Kaiserslautern-Landau, Germany**. I'm also a CCNA-certified engineer building hands-on projects at the intersection of **machine learning, network security, and reliable backend systems**. I focus on understanding systems end to end—from models and data to APIs, databases, orchestration, testing, and deployment.
+I'm currently pursuing a **Master of Science in Computer Science at RPTU University of Kaiserslautern-Landau, Germany**. I'm also a CCNA-certified engineer building hands-on projects at the intersection of **machine learning, network security, and reliable backend systems**. I focus on understanding systems end to end from models and data to APIs, databases, orchestration, testing, and deployment.
 
 ## 🚀 Featured Projects
 
