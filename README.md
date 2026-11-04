@@ -1,4 +1,4 @@
-y# Hi, I'm Rushi Thatikonda 👋
+# Hi, I'm Rushi Thatikonda 👋
 
 **M.Sc. Computer Science @ RPTU | AI & ML Engineering | Network Security**
 
