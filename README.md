@@ -4,7 +4,7 @@
 
 I'm pursuing a **Master of Science in Computer Science at RPTU University of Kaiserslautern-Landau, Germany** and hold the **Cisco Certified Network Associate (CCNA)** certification. I build practical systems at the intersection of machine learning, reliable backend engineering, and network security.
 
-I focus on understanding systems end to end—from models and data to APIs, databases, automated workflows, evaluation, security, and deployment. I document what works, how it was tested, and where its limitations are.
+I focus on understanding systems end to end - from models and data to APIs, databases, automated workflows, evaluation, security, and deployment. I document what works, how it was tested, and where its limitations are.
 
 ## 🚀 Featured Projects
 
